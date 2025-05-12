@@ -1,9 +1,9 @@
-import java.util.List;
-
     /*
         Escriba una función que elimine todos los números menores o iguales que el argumento indicado.
         Ejemplo: mayor([1,5,7,9,1,2,12,23,45,5,8],4) = [5,7,9,12,23,45,5,8]
     */
+
+import java.util.List;
 
 public class Punto17 {
     public static void main(String[] args) {

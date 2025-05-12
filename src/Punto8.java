@@ -1,13 +1,14 @@
-import java.util.List;
-import java.util.stream.IntStream;
-
     /*
         Realice un algoritmo que lea una secuencia de 20 números almacenarlos en un vector y mostrar la posición donde se encuentra el mayor valor leído.
     */
 
+import java.util.List;
+import java.util.stream.IntStream;
+
 public class Punto8 {
     public static void main(String[] args) {
-        List<Integer> vector = List.of(12, 45, 23, 67, 34, 89, 56, 32, 90, 54, 21, 78, 43, 65, 76, 87, 98, 10, 24, 36);
+        List<Integer> vector = List.of
+                (12, 45, 23, 67, 34, 89, 56, 32, 90, 54, 21, 78, 43, 65, 76, 87, 98, 10, 24, 36);
 
         int max = vector.stream()
                 .mapToInt(v -> v)

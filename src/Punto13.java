@@ -1,9 +1,9 @@
-import java.util.List;
-
     /*
         Cree una función que cuente el número de veces que aparece x en una lista.
         Desarrolle dos versiones de la función: una usando filter y otra usando reduce y map.
     */
+
+import java.util.List;
 
 public class Punto13 {
     public static void main(String[] args) {

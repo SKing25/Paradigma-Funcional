@@ -1,9 +1,9 @@
-import java.util.Arrays;
-import java.util.stream.IntStream;
-
     /*
         Realice un algoritmo que cree tres vectores de 10 posiciones, los lea y asigne sus valores a una matriz x(3,10). imprimir la matriz.
     */
+
+import java.util.Arrays;
+import java.util.stream.IntStream;
 
 public class Punto11 {
         public static void main(String[] args) {

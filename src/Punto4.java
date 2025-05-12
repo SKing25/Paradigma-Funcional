@@ -1,8 +1,8 @@
-import java.util.List;
-
     /*
         Un maestro desea saber qué porcentaje de hombres y que porcentaje de mujeres hay en un grupo de estudiantes.
     */
+
+import java.util.List;
 
 public class Punto4 {
     public static void main(String[] args) {

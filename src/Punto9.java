@@ -1,8 +1,8 @@
-import java.util.Arrays;
-
     /*
         Realice un algoritmo que cree un vector de 16 posiciones llenarlo y partirlo en dos de 8 posiciones.
     */
+
+import java.util.Arrays;
 
 public class Punto9 {
     public static void main(String[] args) {

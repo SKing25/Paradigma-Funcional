@@ -1,9 +1,9 @@
-import java.util.Arrays;
-import java.util.List;
-
     /*
         Algoritmo que almacena 15 valores y los ordena en orden inverso usando Streams
     */
+
+import java.util.Arrays;
+import java.util.List;
 
 public class Punto7 {
     public static void main(String[] args) {

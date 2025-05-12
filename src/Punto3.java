@@ -1,5 +1,3 @@
-import java.util.List;
-
     /*
         Un aprendiz desea saber cuál será su calificación final en la materia de Algoritmos.
         Dicha calificación se compone de los siguientes porcentajes:
@@ -10,6 +8,8 @@ import java.util.List;
 
         15% de la calificación de un trabajo final.
     */
+
+import java.util.List;
 
 public class Punto3 {
     public static void main(String[] args) {

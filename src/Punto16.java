@@ -1,9 +1,9 @@
-import java.util.List;
-
     /*
         Escriba una función que cuente el número de números positivos de una lista.
         Ejemplo: cuentaPositivos([0,1,-3,-2,8,-1,6]) = 3
     */
+
+import java.util.List;
 
 public class Punto16 {
     public static void main(String[] args) {

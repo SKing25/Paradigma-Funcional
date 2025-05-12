@@ -1,10 +1,10 @@
-import java.util.Arrays;
-import java.util.Scanner;
-import java.util.stream.IntStream;
-
     /*
         Realice un algoritmo que cree un vector de longitud n donde n lo define el usuario calcula número mayor y menor
     */
+
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.stream.IntStream;
 
 public class Punto6 {
     public static void main(String[] args) {
